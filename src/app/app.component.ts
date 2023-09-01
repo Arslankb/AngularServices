@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { SubscribeService } from './services/subscribe.service';
 
 @Component({
   selector: 'app-root',
